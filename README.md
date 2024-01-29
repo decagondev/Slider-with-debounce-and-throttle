@@ -1,4 +1,4 @@
-# Spike Project (Slider with Deboune & Throttle)
+# Spike Project (Slider with Debounce & Throttle)
 This is a simple Slider Component with Debounce and Throttle, using the lodash library.
 
 **Slider Component**
